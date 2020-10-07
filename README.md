@@ -13,4 +13,4 @@ https://BeatyPete.github.io/run-buddy/
 ## Contribution
 Made by me
 
-# Run Buddy, Inc
+### ©️2019 Run Buddy, Inc
