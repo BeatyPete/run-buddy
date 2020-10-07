@@ -10,4 +10,7 @@ A website that offers fitness training services.
 ## Website
 https://BeatyPete.github.io/run-buddy/
 
-##Made by me
+## Contribution
+Made by me
+
+# Run Buddy, Inc
